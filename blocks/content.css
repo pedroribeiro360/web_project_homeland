@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 11.56%;
+  padding-right: 11.56%;
+}
+
+@media (max-width: 1024px) {
+  .content {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
