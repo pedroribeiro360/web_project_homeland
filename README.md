@@ -18,4 +18,4 @@ Futuras Melhorias :
 -Timeline de atualizações mais distantes
 -Sistema de conversas com outras pessoas da TripleTen
 
-Link para a pagina:
+Link para a pagina: https://pedroribeiro360.github.io/web_project_homeland/
