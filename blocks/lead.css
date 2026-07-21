@@ -15,6 +15,10 @@
   display: block;
 }
 
+.lead__subtitle-break {
+  display: block;
+}
+
 .lead__sub-title {
   font-size: 30px;
   line-height: 1.2;
